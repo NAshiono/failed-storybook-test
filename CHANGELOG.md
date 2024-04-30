@@ -1,0 +1,8 @@
+# 1.0.0 (2024-04-30)
+
+
+### Features
+
+* Add button component ([85862b9](https://github.com/NAshiono/storybook-test/commit/85862b930f895c661e7f2bba1741afd09c2da908))
+* Add github actions ([2f43f89](https://github.com/NAshiono/storybook-test/commit/2f43f89c72c73d35c5d3214e2789a3d675361bda))
+* Added github actions ([a7b4d1a](https://github.com/NAshiono/storybook-test/commit/a7b4d1ab30cf6b43709f673f1872013cb1770f0d))
