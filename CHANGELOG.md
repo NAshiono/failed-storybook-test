@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/NAshiono/storybook-test/compare/v1.3.0...v1.4.0) (2024-04-30)
+
+
+### Features
+
+* Modified import paths ([a90a668](https://github.com/NAshiono/storybook-test/commit/a90a6687390fbde4db37ea2b228c507f65f5e865))
+* Modified the config files, added imports for react ([b4c92e8](https://github.com/NAshiono/storybook-test/commit/b4c92e867bed75b736da06e39690ad18e62f145c))
+
 # [1.3.0](https://github.com/NAshiono/storybook-test/compare/v1.2.0...v1.3.0) (2024-04-30)
 
 
