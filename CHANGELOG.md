@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/NAshiono/storybook-test/compare/v1.1.0...v1.2.0) (2024-04-30)
+
+
+### Features
+
+* Renamed package ([b92b9c8](https://github.com/NAshiono/storybook-test/commit/b92b9c8d853355a93ec6aa309b65ad012fdd03fa))
+
 # [1.1.0](https://github.com/NAshiono/storybook-test/compare/v1.0.0...v1.1.0) (2024-04-30)
 
 
