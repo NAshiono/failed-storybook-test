@@ -1,8 +1,11 @@
 {
   "name": "storybook-test",
-  "private": true,
   "version": "1.0.0",
   "type": "module",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.ts",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
