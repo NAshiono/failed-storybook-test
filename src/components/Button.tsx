@@ -4,7 +4,7 @@ import { ButtonHTMLAttributes } from 'react'
 export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {}
 
 const StyledButton = styled.button<ButtonProps>({
-  padding: '10px',
+  padding: '15px',
   margin: 0,
   boxSizing: 'border-box',
   color: '#ececec',
@@ -12,6 +12,7 @@ const StyledButton = styled.button<ButtonProps>({
   borderRadius: '6px',
   backgroundColor: '#499970',
   fontSize: '16px',
+  boxShadow: '1px 1px 20px black',
 })
 
 export function Button({ children, ...rest }: ButtonProps) {
