@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/NAshiono/storybook-test/compare/v1.2.0...v1.3.0) (2024-04-30)
+
+
+### Features
+
+* Modified the file for the correct index file ([07a7f5d](https://github.com/NAshiono/storybook-test/commit/07a7f5da86d48529def5d0246dadadd2e0deea99))
+
 # [1.2.0](https://github.com/NAshiono/storybook-test/compare/v1.1.0...v1.2.0) (2024-04-30)
 
 
