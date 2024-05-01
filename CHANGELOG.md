@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/NAshiono/storybook-test/compare/v1.5.0...v1.6.0) (2024-05-01)
+
+
+### Features
+
+* Modified somethings ([4dda71a](https://github.com/NAshiono/storybook-test/commit/4dda71a2e0c32d8bb132ffabf8befd9fc662cd65))
+
 # [1.5.0](https://github.com/NAshiono/storybook-test/compare/v1.4.0...v1.5.0) (2024-05-01)
 
 
