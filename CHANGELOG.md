@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/NAshiono/storybook-test/compare/v1.4.0...v1.5.0) (2024-05-01)
+
+
+### Features
+
+* Modified config files to include components ([9384748](https://github.com/NAshiono/storybook-test/commit/9384748416247ea403da982df03770763b5c5544))
+* Modified import paths ([2d0f903](https://github.com/NAshiono/storybook-test/commit/2d0f903d934d720c05a7620ceb7eaafcefc1bacf))
+
 # [1.4.0](https://github.com/NAshiono/storybook-test/compare/v1.3.0...v1.4.0) (2024-04-30)
 
 
